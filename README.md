@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Krish Gupta</h1>
-<h3 align="center">A passionate Software and Full-Stack developer from India</h3>
+<h3 align="center">A passionate Software and DevOps Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -8,15 +8,26 @@
 
 <p align="left"> <a href="https://twitter.com/krish_3103" target="blank"><img src="https://img.shields.io/twitter/follow/krish_3103?logo=twitter&style=for-the-badge" alt="krish_3103" /></a> </p>
 
-- 🔭 I’m currently working on **Hotel Booking Application**
+- 🔭 I’m currently working on **Cloud Infrastructure Automation & Kubernetes Deployments**
 
-- 🌱 I’m currently learning **Next.js**
+- ☁️ I specialize in **Azure, AWS, Kubernetes, Terraform, Docker & CI/CD**
 
-- 👯 I’m looking to collaborate on **Open Source Contribution**
+- 🌱 I’m currently learning **Advanced Kubernetes, GitOps & Cloud Security**
+
+- 👯 I’m looking to collaborate on **Cloud Native & Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [http://portfolio-nine-eta-81.vercel.app](http://portfolio-nine-eta-81.vercel.app)
 
 - 📫 How to reach me **krishguptack90@gmail.com**
+
+-  📄 **AWS Cloud Practitioner Certified | Google Cloud Infrastructure Certified**
+
+- 🚀 Featured Projects:
+
+    **Enterprise Azure Hub & Spoke Architecture
+    AKS Cluster Setup & Helm Deployments
+    Multi-Cloud Infrastructure Automation with Terraform
+    CI/CD Pipeline Setup using GitHub Actions & Azure DevOps**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_wBCEjLxZLdlHZCSBF5VGEpOaoWykSoU/view?usp=sharing](https://drive.google.com/file/d/1_wBCEjLxZLdlHZCSBF5VGEpOaoWykSoU/view?usp=sharing)
 
